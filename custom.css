@@ -1,0 +1,32 @@
+.bg-custom {
+  background-color: #5383E8 !important;
+}
+
+.font-small-custom {
+  font-size: 14px;
+}
+
+.font-grey-custom {
+  color: #C5CBD0;
+}
+
+.menu-item {
+  list-style: none;
+  color: #B3CDFB !important;
+}
+
+.menu-item:first-child {
+  list-style: none;
+  border-bottom: 3px solid white;
+  color: white !important;
+}
+
+.menu-item:hover {
+  list-style: none;
+  border-bottom: 3px solid white;
+  color: white !important;
+}
+
+.menu-list {
+  border-bottom: 1px solid #4171D6;
+}
