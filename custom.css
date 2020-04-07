@@ -30,3 +30,12 @@
 .menu-list {
   border-bottom: 1px solid #4171D6;
 }
+
+.search {
+  margin-top: 25px;
+  margin-bottom: 250px;
+  padding: 13px 10px;
+  width: 625px;
+  border-radius: 2px;
+  border-style: none;
+}
