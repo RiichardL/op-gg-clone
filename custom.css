@@ -2,12 +2,20 @@
   background-color: #5383E8 !important;
 }
 
+.bg-grey-custom {
+  background-color: #FBFBFB !important;
+}
+
 .font-small-custom {
   font-size: 14px;
 }
 
 .font-grey-custom {
   color: #C5CBD0;
+}
+
+.menu-list {
+  border-bottom: 1px solid #4171D6;
 }
 
 .menu-item {
@@ -27,15 +35,22 @@
   color: white !important;
 }
 
-.menu-list {
-  border-bottom: 1px solid #4171D6;
-}
-
 .search {
   margin-top: 25px;
-  margin-bottom: 250px;
   padding: 13px 10px;
   width: 625px;
   border-radius: 2px;
   border-style: none;
+}
+
+.border-bottom-custom {
+  border-bottom: 1px solid #E9EFF4;
+}
+
+.menu-info {
+  list-style: none;
+}
+
+.menu-info-item {
+  color: white;
 }
